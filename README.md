@@ -2,8 +2,6 @@
 
 A natural language processing project that analyzes sentiment and topics from Reddit posts in real time. Built using Python, PRAW, Hugging Face Transformers, and Streamlit.
 
----
-
 ## 🚀 Features
 
 - ✅ Scrape Reddit posts using Reddit API (PRAW)
@@ -11,8 +9,6 @@ A natural language processing project that analyzes sentiment and topics from Re
 - 🚧 Sentiment classification with Hugging Face Transformers (in progress)
 - 🚧 Topic modeling with BERTopic (coming soon)
 - 🚧 Interactive dashboard using Streamlit
-
----
 
 ## 📁 Folder Structure
 
@@ -28,8 +24,6 @@ sentiment-topic-tracker/
 ├── .gitignore
 └── README.md
 ```
-
----
 
 ## 🔧 Setup Instructions
 
@@ -72,7 +66,6 @@ python src/scraper.py
 
 This will fetch Reddit posts from a subreddit and save them to a CSV file in `data/`.
 
----
 
 ## 📌 Status & Roadmap
 
@@ -82,7 +75,6 @@ This will fetch Reddit posts from a subreddit and save them to a CSV file in `da
 - [ ] Streamlit dashboard for interaction
 - [ ] Dockerization and deployment
 
----
 
 ## 🧠 About the Author
 
